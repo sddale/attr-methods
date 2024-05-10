@@ -159,6 +159,9 @@ cython_debug/
 # MacOS filesystem file
 .DS_Store
 
+# torch data downloads
+tests/data*
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
